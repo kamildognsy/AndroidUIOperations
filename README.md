@@ -14,5 +14,5 @@ allprojects {
   
 #Step 2. Add the dependency
 dependencies {
-	        implementation 'com.github.kamildognsy:AndroidUIOperations:Tag'
+	        implementation 'com.github.kamildognsy:AndroidUIOperations:1.1'
 	}
